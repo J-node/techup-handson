@@ -1,1 +1,26 @@
-h1 {color: red}
+/* Style for H1 text */
+h1 {
+    color: #E0218A;
+    background-color: rgb(237, 173, 218);
+    text-align: center;
+    border: 5px rgb(249, 244, 244) dotted;
+    padding-top: 5px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+}
+    
+
+.End_Box {
+    color: #eee4ea;
+    background-color: rgb(237, 173, 218);
+    text-align: center;
+    border: 5px rgb(249, 244, 244) dotted;
+    font: 200px;
+    padding-top: 5px;
+    padding-bottom: 30px;
+    margin-bottom: 100px;
+}
+
+#important {
+    color: black
+}
